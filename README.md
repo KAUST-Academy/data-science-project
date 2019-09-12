@@ -4,7 +4,7 @@ Repository containing scaffolding for a language agnostic data science project. 
 
 ## Creating a new project from this template
 
-Simpy follow the [instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new project repository from this template.
+Simply follow the [instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new project repository from this template.
 
 ## Project organization
 
